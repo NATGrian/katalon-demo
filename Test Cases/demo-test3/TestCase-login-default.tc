@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TestCase-login-default</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>60c22601-94e8-407a-a4ea-df88f01cc3a1</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>de24856b-599f-410b-b6ca-dfab5aa65618</id>
+      <masked>false</masked>
+      <name>v_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>d29fd409-7201-445c-86a2-9c187976a939</id>
+      <masked>false</masked>
+      <name>v_pass</name>
+   </variable>
+</TestCaseEntity>

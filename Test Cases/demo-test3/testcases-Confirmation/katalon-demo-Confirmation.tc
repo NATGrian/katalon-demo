@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>katalon-demo-Confirmation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5a92d811-cbcf-403f-afd3-1278083720c8</testCaseGuid>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>2edef06c-e391-43f9-8b8f-86140bceafa8</id>
+      <masked>false</masked>
+      <name>c_Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>1bd219ae-a7ec-43d4-a872-ee65790ef2df</id>
+      <masked>false</masked>
+      <name>c_Apply</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicare'</defaultValue>
+      <description></description>
+      <id>0fe47b60-89c9-443e-a6e2-32dd127d993e</id>
+      <masked>false</masked>
+      <name>c_Healthcare</name>
+   </variable>
+   <variable>
+      <defaultValue>'19/01/2022'</defaultValue>
+      <description></description>
+      <id>6d865896-f299-4dd2-91c5-b6a329a45285</id>
+      <masked>false</masked>
+      <name>c_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'commmmmmmmmmm'</defaultValue>
+      <description></description>
+      <id>0d402c2e-8c35-422e-ade8-440ed145d2f7</id>
+      <masked>false</masked>
+      <name>c_Comment</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>katalon-demo-appointment(data)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a7bd118-c57e-4400-99cf-7b2d206089ea</testCaseGuid>
+   <variable>
+      <defaultValue>'Hongkong CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>755c9b08-b1b8-499b-8355-5245f9033f44</id>
+      <masked>false</masked>
+      <name>v_Facility</name>
+   </variable>
+   <variable>
+      <defaultValue>'Yes'</defaultValue>
+      <description></description>
+      <id>ffb09b9f-89ed-45c8-81e5-8ee148d8ec09</id>
+      <masked>false</masked>
+      <name>v_Apply</name>
+   </variable>
+   <variable>
+      <defaultValue>'Medicaid'</defaultValue>
+      <description></description>
+      <id>4f35fd87-e784-4f1f-b622-97dcc6d2867b</id>
+      <masked>false</masked>
+      <name>v_Healthcare</name>
+   </variable>
+   <variable>
+      <defaultValue>'19/01/2022'</defaultValue>
+      <description></description>
+      <id>65dde726-c9e7-4143-934b-69e2fa4a579a</id>
+      <masked>false</masked>
+      <name>v_Date</name>
+   </variable>
+   <variable>
+      <defaultValue>'commmmmmmmmmm'</defaultValue>
+      <description></description>
+      <id>b67d7a7b-c594-429f-a2d5-cc86fdacbff7</id>
+      <masked>false</masked>
+      <name>v_Comment</name>
+   </variable>
+</TestCaseEntity>

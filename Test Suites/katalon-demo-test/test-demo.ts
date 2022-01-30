@@ -20,19 +20,19 @@
    <testCaseLink>
       <guid>4dc4bbb6-dc88-4f4d-97d8-099a674f5430</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/demo-test2/katalon-demo-home</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>2c2fcb56-dba4-4b51-a7d6-f870d564069a</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/demo-test2/katalon-demo-login</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>bf6dd9f8-c51e-4ab4-b3bc-1eeaab8f79a1</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/demo-test2/katalon-demo-appointment</testCaseId>
    </testCaseLink>
 </TestSuiteEntity>

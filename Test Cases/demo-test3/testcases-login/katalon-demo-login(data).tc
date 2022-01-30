@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>katalon-demo-login(data)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>245c955b-6575-4222-81d2-310cfc9c37d8</testCaseGuid>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>26cedff6-9302-4bb3-b319-55e35c562216</id>
+      <masked>false</masked>
+      <name>v_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>0e6cb58f-8f0c-47ad-94f7-2173a3542270</id>
+      <masked>false</masked>
+      <name>v_pass</name>
+   </variable>
+</TestCaseEntity>
